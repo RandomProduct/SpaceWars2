@@ -1,0 +1,18 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="MainMenuController">
+			<method name="backToMainMenu"/>
+			<method name="backToMainMenu"/>
+			<method name="backToMainMenu"/>
+			<method name="startGame"/>
+			<method name="chooseDifficulty"/>
+			<method name="seeControls"/>
+			<method name="goToCredits"/>
+			<method name="startGame"/>
+			<method name="startGame"/>
+			<method name="highScores"/>
+			<method name="backToMainMenu"/>
+			<method name="Quit"/>
+		</type>
+	</assembly>
+</linker>

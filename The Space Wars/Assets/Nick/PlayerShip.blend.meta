@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: cdcdaa9cbe23beb418a3a7c592700342
+timeCreated: 1463519849
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barrel_L
+    100002: Barrel_R
+    100004: Barrels
+    100006: BotBar_L
+    100008: BotBar_R
+    100010: BotGun_L
+    100012: BotGun_R
+    100014: Guns
+    100016: //RootNode
+    100018: Ship
+    100020: SideGuns
+    100022: TopBar_L
+    100024: TopBar_R
+    100026: TopGun_L
+    100028: TopGun_R
+    100030: Turret_L
+    100032: Turret_R
+    100034: Turrets
+    400000: Barrel_L
+    400002: Barrel_R
+    400004: Barrels
+    400006: BotBar_L
+    400008: BotBar_R
+    400010: BotGun_L
+    400012: BotGun_R
+    400014: Guns
+    400016: //RootNode
+    400018: Ship
+    400020: SideGuns
+    400022: TopBar_L
+    400024: TopBar_R
+    400026: TopGun_L
+    400028: TopGun_R
+    400030: Turret_L
+    400032: Turret_R
+    400034: Turrets
+    2300000: Ship
+    3300000: Ship
+    4300000: Guns
+    4300002: Barrels
+    4300004: Ship
+    7400000: Default Take
+    7400002: Big_Guns
+    7400004: TurretsAction
+    9500000: //RootNode
+    13700000: Barrels
+    13700002: Guns
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Guns
+        weight: 1
+      - path: Ship
+        weight: 1
+      - path: SideGuns
+        weight: 1
+      - path: SideGuns/BotBar_L
+        weight: 1
+      - path: SideGuns/BotBar_R
+        weight: 1
+      - path: SideGuns/BotGun_L
+        weight: 1
+      - path: SideGuns/BotGun_R
+        weight: 1
+      - path: SideGuns/TopBar_L
+        weight: 1
+      - path: SideGuns/TopBar_R
+        weight: 1
+      - path: SideGuns/TopGun_L
+        weight: 1
+      - path: SideGuns/TopGun_R
+        weight: 1
+      - path: Turrets
+        weight: 1
+      - path: Turrets/Barrel_L
+        weight: 1
+      - path: Turrets/Barrel_R
+        weight: 1
+      - path: Turrets/Turret_L
+        weight: 1
+      - path: Turrets/Turret_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Big_Guns
+      takeName: Big_Guns
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Guns
+        weight: 1
+      - path: Ship
+        weight: 1
+      - path: SideGuns
+        weight: 1
+      - path: SideGuns/BotBar_L
+        weight: 1
+      - path: SideGuns/BotBar_R
+        weight: 1
+      - path: SideGuns/BotGun_L
+        weight: 1
+      - path: SideGuns/BotGun_R
+        weight: 1
+      - path: SideGuns/TopBar_L
+        weight: 1
+      - path: SideGuns/TopBar_R
+        weight: 1
+      - path: SideGuns/TopGun_L
+        weight: 1
+      - path: SideGuns/TopGun_R
+        weight: 1
+      - path: Turrets
+        weight: 1
+      - path: Turrets/Barrel_L
+        weight: 1
+      - path: Turrets/Barrel_R
+        weight: 1
+      - path: Turrets/Turret_L
+        weight: 1
+      - path: Turrets/Turret_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TurretsAction
+      takeName: TurretsAction
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Guns
+        weight: 1
+      - path: Ship
+        weight: 1
+      - path: SideGuns
+        weight: 1
+      - path: SideGuns/BotBar_L
+        weight: 1
+      - path: SideGuns/BotBar_R
+        weight: 1
+      - path: SideGuns/BotGun_L
+        weight: 1
+      - path: SideGuns/BotGun_R
+        weight: 1
+      - path: SideGuns/TopBar_L
+        weight: 1
+      - path: SideGuns/TopBar_R
+        weight: 1
+      - path: SideGuns/TopGun_L
+        weight: 1
+      - path: SideGuns/TopGun_R
+        weight: 1
+      - path: Turrets
+        weight: 1
+      - path: Turrets/Barrel_L
+        weight: 1
+      - path: Turrets/Barrel_R
+        weight: 1
+      - path: Turrets/Turret_L
+        weight: 1
+      - path: Turrets/Turret_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

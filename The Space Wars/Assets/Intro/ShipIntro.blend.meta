@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 5d5b9359f9f2206458b3ec1eb31d3955
+timeCreated: 1463539119
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barrel_L
+    100002: Barrel_R
+    100004: Barrels
+    100006: BotBar_L
+    100008: BotBar_R
+    100010: BotGun_L
+    100012: BotGun_R
+    100014: Guns
+    100016: Ship
+    100018: //RootNode
+    100020: SideGuns
+    100022: TopBar_L
+    100024: TopBar_R
+    100026: TopGun_L
+    100028: TopGun_R
+    100030: Turret_L
+    100032: Turret_R
+    100034: Turrets
+    100036: Ship_001
+    100038: BotJoint_L
+    100040: BotJoint_R
+    100042: BotMast
+    100044: BotMast_002
+    100046: BotSail_L
+    100048: BotSail_R
+    100050: BotSide_L
+    100052: BotSide_R
+    100054: Mast
+    100056: Masts
+    100058: Sail
+    100060: SailBotJoint_L
+    100062: SailBotoint_R
+    100064: Sails
+    100066: SailTopJoint_L
+    100068: SailTopJoint_R
+    100070: TopJoint_L
+    100072: TopJoint_R
+    100074: TopMast_L
+    100076: TopMast_R
+    100078: TopSail_L
+    100080: TopSail_R
+    100082: TopSide_L
+    100084: TopSide_R
+    400000: Barrel_L
+    400002: Barrel_R
+    400004: Barrels
+    400006: BotBar_L
+    400008: BotBar_R
+    400010: BotGun_L
+    400012: BotGun_R
+    400014: Guns
+    400016: Ship
+    400018: //RootNode
+    400020: SideGuns
+    400022: TopBar_L
+    400024: TopBar_R
+    400026: TopGun_L
+    400028: TopGun_R
+    400030: Turret_L
+    400032: Turret_R
+    400034: Turrets
+    400036: Ship_001
+    400038: BotJoint_L
+    400040: BotJoint_R
+    400042: BotMast
+    400044: BotMast_002
+    400046: BotSail_L
+    400048: BotSail_R
+    400050: BotSide_L
+    400052: BotSide_R
+    400054: Mast
+    400056: Masts
+    400058: Sail
+    400060: SailBotJoint_L
+    400062: SailBotoint_R
+    400064: Sails
+    400066: SailTopJoint_L
+    400068: SailTopJoint_R
+    400070: TopJoint_L
+    400072: TopJoint_R
+    400074: TopMast_L
+    400076: TopMast_R
+    400078: TopSail_L
+    400080: TopSail_R
+    400082: TopSide_L
+    400084: TopSide_R
+    2300000: Ship
+    2300002: Barrels
+    2300004: Guns
+    2300006: Ship_001
+    3300000: Ship
+    3300002: Barrels
+    3300004: Guns
+    3300006: Ship_001
+    4300000: Guns
+    4300002: Barrels
+    4300004: Ship
+    4300006: Ship_001
+    4300008: Sails
+    4300010: Masts
+    7400000: Default Take
+    7400002: Big_Guns
+    7400004: TurretsAction
+    7400006: Transform
+    9500000: //RootNode
+    13700000: Barrels
+    13700002: Guns
+    13700004: Masts
+    13700006: Sails
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
